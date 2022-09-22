@@ -1,3 +1,9 @@
+* {
+  margin: 1%;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 0px;
+}
 .App {
   text-align: center;
 }
@@ -11,6 +17,12 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+.input-group {
+  align-items: center;
+}
+.form-control {
+  align-items: center;
 }
 
 .App-header {
